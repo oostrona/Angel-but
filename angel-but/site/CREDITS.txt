@@ -1,0 +1,25 @@
+Angel But - źródła materiałów użytych na stronie
+
+ZDJĘCIA
+Wszystkie zdjęcia pochodzą z wizytówki "Tapicer Angel but" w Mapach Google i zostały dodane przez konto właściciela ("Angel but"):
+- buty-*.webp: buty trekkingowe po wymianie podeszew (styczeń 2026)
+- tapicerka-*.webp, og.jpg: krzesła po nowym obiciu przed pracownią (kwiecień 2026)
+- auto-*.webp: tylna kanapa samochodu w nowym obiciu (wrzesień 2026)
+- szycie-*.webp: lada pracowni z ulotką usług (kwiecień 2026)
+- krzesla-*.webp: dwa krzesła po nowym obiciu w pracowni (kwiecień 2026)
+- szyld-*.webp: szyld "Tapicer meblowy, samochodowy, medyczny" (wrzesień 2026)
+- chip-*.webp: małe wycinki materiałów z powyższych zdjęć oraz zdjęcia z marca 2025 (lina)
+Zdjęcia klientów z opinii NIE zostały użyte (prawa autorskie należą do ich autorów).
+Przed publikacją warto potwierdzić z właścicielem zgodę na użycie tych zdjęć na stronie.
+
+OPINIE
+Trzy cytaty to prawdziwe, publiczne opinie z Map Google (skrócone bez zmiany sensu, podpisane imieniem i inicjałem albo nazwą konta).
+
+CZCIONKA
+Commissioner, Kostas Bartsokas, SIL Open Font License 1.1 (pliki z pakietu Fontsource).
+
+IKONY
+Phosphor Icons (odmiana Bold), licencja MIT - https://phosphoricons.com
+
+MAPA
+© autorzy OpenStreetMap, licencja ODbL - https://www.openstreetmap.org/copyright
